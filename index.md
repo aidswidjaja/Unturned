@@ -23,3 +23,7 @@ Things to test:
 ```
 
 Port: `27015`
+Original paging file size: `1984MB`
+New pagaing file size: 
+- Initial: `2976MB`
+- Max: `4960MB`
