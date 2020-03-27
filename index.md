@@ -26,8 +26,10 @@ Things to test:
 - Storm
 ```
 
-Port: `27015`
+Port: `27015-27017`
 Original paging file size: `1984MB`
 New pagaing file size: 
 - Initial: `2976MB`
 - Max: `4960MB`
+
+NoIP: `pigeonspeak.ddns.net` EXPIRES EVERY 30 DAYS - last renewed 27/03/2020
