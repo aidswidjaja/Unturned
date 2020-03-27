@@ -12,6 +12,7 @@ We're a group of friends from Sydney, Australia, playing Unturned to kill time a
 Things to test:
 ```
 - Structure saves
+- cheats == Disabled
 - Map == Washington
 - PvP == true
 - mode == Normal
@@ -22,6 +23,7 @@ Things to test:
 - Perspective == Both
 - Teleport
 - Admin/Owner
+- Storm
 ```
 
 Port: `27015`
